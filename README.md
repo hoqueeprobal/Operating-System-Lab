@@ -11,3 +11,5 @@ This repository is a collection of Bash scripts and concepts I learned during my
 
 ## 📚 Topics Covered
 - Introduction to the Bash shell
+- Shell Variables and User Input
+- Arithmetic Operator and Conditional statements
